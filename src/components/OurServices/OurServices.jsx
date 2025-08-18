@@ -25,6 +25,11 @@ const services = [
     title: "Baby Shoot & Maternity",
     image: "https://i.postimg.cc/x11FNjcG/RAJ01090.jpg",
   },
+
+  {
+    title: "Kids Photography",
+    image: "https://i.postimg.cc/vZ35mqts/Z62-3361.jpg",
+  },
 ];
 
 const OurServices = () => {

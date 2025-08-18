@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { FaInstagram } from "react-icons/fa";
 import "./LatestWork.css";
 import { image } from "framer-motion/client";
+import { Baby } from "lucide-react";
 
 // Animation configurations
 const containerVariants = {
@@ -307,7 +308,7 @@ const initialCategories = {
     },
   ],
 
-  MaternityAndBabyshoot: [
+  Maternity: [
     {
       imageUrl: "https://i.postimg.cc/g0DrNfQX/RAJ01100.jpg",
       category: "Maternity",
@@ -320,7 +321,9 @@ const initialCategories = {
       imageUrl: "https://i.postimg.cc/65yjwKhK/RAJ01150.jpg",
       category: "Maternity",
     },
+  ],
 
+  BabyShoot: [
     {
       imageUrl: "https://i.postimg.cc/bwT9tN84/Z62-3364.jpg",
       category: "Maternity",

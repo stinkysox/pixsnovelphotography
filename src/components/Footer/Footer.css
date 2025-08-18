@@ -78,6 +78,13 @@
   border-top: 1px solid #ddd;
 }
 
+.footer-address {
+  font-size: 14px;
+  margin-top: 5px;
+  color: #777;
+  line-height: 1.5;
+}
+
 /* Responsive */
 @media (min-width: 768px) {
   .footer-content {

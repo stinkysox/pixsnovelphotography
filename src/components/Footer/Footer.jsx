@@ -26,6 +26,11 @@ const Footer = () => {
             Turning your wedding moments into cinematic memories and lasting
             frames.
           </p>
+
+          {/* Address */}
+          <p className="footer-address">
+            201, Hy End Homes, Ayyappa Society, 100ft Road, Madhapur-500081
+          </p>
         </div>
 
         {/* Social Icons */}
