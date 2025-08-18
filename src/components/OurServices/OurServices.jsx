@@ -22,7 +22,7 @@ const services = [
   },
 
   {
-    title: "Baby Shoot & Maternity",
+    title: " Maternity",
     image: "https://i.postimg.cc/x11FNjcG/RAJ01090.jpg",
   },
 
