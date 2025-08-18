@@ -321,6 +321,38 @@ const initialCategories = {
       imageUrl: "https://i.postimg.cc/65yjwKhK/RAJ01150.jpg",
       category: "Maternity",
     },
+    {
+      imageUrl: "https://i.postimg.cc/RhkMSBN0/RAJ00785.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/Y2W0Pn4S/RAJ00723.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/QMCxJ0Gh/RAJ00804.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/hjxn2YCW/RAJ01001.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/Mp4ggDfW/SUR06949.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/SsQLd0Qj/SUR06975.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/Y9yFxhyy/SUR06895.jpg",
+      category: "Maternity",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/23NVHvdT/SUR06836.jpg",
+      category: "Maternity",
+    },
   ],
 
   BabyShoot: [
