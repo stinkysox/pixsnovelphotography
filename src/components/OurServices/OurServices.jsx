@@ -22,7 +22,7 @@ const services = [
   },
 
   {
-    title: " Maternity",
+    title: " Maternity Photography",
     image: "https://i.postimg.cc/x11FNjcG/RAJ01090.jpg",
   },
 
