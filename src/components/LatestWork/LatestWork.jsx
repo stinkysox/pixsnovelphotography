@@ -220,8 +220,29 @@ const initialCategories = {
       imageUrl: "https://i.postimg.cc/Rh9yPtzT/DSC02786.jpg",
       category: "PreWedding",
     },
+
     {
-      imageUrl: "https://i.postimg.cc/xTZg8mFF/SUR03375.jpg",
+      imageUrl: "https://i.postimg.cc/fTJZXsvT/DSC03572.jpg",
+      category: "PreWedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/BQrWKK6M/DSC03861.jpg",
+      category: "PreWedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/fbs6HQYd/DSC03507.jpg",
+      category: "PreWedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/YSxTZDxs/SUR04519.jpg",
+      category: "PreWedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/0jz36k1T/DSC03585.jpg",
+      category: "PreWedding",
+    },
+    {
+      imageUrl: "https://i.postimg.cc/7LqW3MyM/DSC035725.jpg",
       category: "PreWedding",
     },
   ],
